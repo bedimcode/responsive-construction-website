@@ -1,0 +1,154 @@
+========== HEADER ==========
+.nav__logo
+Construct
+
+.nav__link
+Home - About Us - Services - Projects - Contact Us
+
+
+========== HOME ==========
+.home__title
+Create The <br> 
+Constructions <br> 
+You Want Here
+
+.home__description
+We provide the best home design, construction and 
+maintenance services for you and your family.
+
+.button
+Our Services
+
+.button__link
+View Projects
+
+.home__info-title .home__info-description
+10+
+Years of <br> Experience
+
+200
+Complete <br> Projects
+
+
+========== ABOUT ==========
+.section__subtitle
+ABOUT US
+
+.section__title
+We Provide The Best <br> Service To Build
+
+.about__description
+We strive to provide the best professionals 
+to make your project a construction masterpiece, 
+something unique and unmatched.
+
+.about__list-item span
+Professional workers
+Guaranteed quality
+Extensive experience
+We quote your  project
+
+.button
+View Projects
+
+
+========== SERVICES ==========
+.section__subtitle
+OUR SERVICES
+
+.section__title
+High Quality <br> Construction Services
+
+.services__description
+We provide multiple services for you, offering 
+confidence and security in construction.
+
+.button
+Contact Now
+
+.services__title
+Housing <br> Construction
+Construction Of <br> Home Areas
+Maintenance & <br> Repair
+Installation Of <br> ceramics & Others
+Water & Drainage <br> Installation
+
+.services__card p
+We build with the best professionals 
+and high-quality work for a safe and 
+effective home.
+
+
+========== PROJECTS ==========
+.section__subtitle
+OUR PROJECTS
+
+.section__title
+Latest Completed <br> Projects
+
+.projects__data span .projects__title .projects__data .projects__data p
+House construction
+Two Story House
+January 15, 2024
+
+Maintenance & Repair
+Stairs & Columns
+May 21, 2024
+
+Construction Of Home Areas
+kitchen Room
+July 03, 2024
+
+Construction of a two-story house with columns, 
+foundations, floor, ceilings and others.
+
+
+========== CONTACT ==========
+.section__subtitle
+CONTACT ME
+
+.section__title
+Write To Us & Build
+
+.contact__title .contact__info
+I'm here
+Peru - Lima <br>
+Av.Moon #321
+
+Talk to me
++00-987-7654-321 <br>
++11-012345
+
+Chat with me
+https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
+https://m.me/bedimcode
+https://t.me/telegram
+
+
+========== FOOTER ==========
+.footer__logo span
+Construct
+
+.footer__description
+We build security <br> and trust in homes.
+
+.footer__email
+Email: construct123@email.com
+
+.footer__title .footer__link .footer__info
+Company
+ About Us
+ Services
+ Projects
+
+Information
+ Peru - Lima <br> Av.Moon #321
+ 9AM - 11PM
+
+Social Media
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+.footer__copy
+&#169; All Rights Reserved By Bedimcode
